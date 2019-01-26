@@ -1,207 +1,4013 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"gid":12,"Enabled":1,"Subtype":1,"GlobalID":"{8f33c1fe-5aaf-448e-8fa5-035efd053936}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{8f33c1fe-5aaf-448e-8fa5-035efd053936}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.143526198423704,1.3840291686373276],[24.13948939006575,1.38376407108779]]}}
-,
-{"type":"Feature","properties":{"gid":38,"Enabled":1,"Subtype":1,"GlobalID":"{7865bb12-7ee0-49cb-8553-9446174fcbd1}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{7865bb12-7ee0-49cb-8553-9446174fcbd1}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.136290288507574,1.390842619484191],[24.136301155753543,1.3915237991892537]]}}
-,
-{"type":"Feature","properties":{"gid":1,"Enabled":1,"Subtype":1,"GlobalID":"{2830afc1-6e6c-4d65-8a3e-65aee94c9b03}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{2830afc1-6e6c-4d65-8a3e-65aee94c9b03}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.089676836729264,1.3271717119909847],[24.08961770678952,1.3264810208778328]]}}
-,
-{"type":"Feature","properties":{"gid":2,"Enabled":1,"Subtype":1,"GlobalID":"{cfb41304-58ae-4d94-9a3a-2dd31f1add5d}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{cfb41304-58ae-4d94-9a3a-2dd31f1add5d}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.223890436556264,1.3435675825129418],[24.223861226075666,1.3460499670253545],[24.22384569620329,1.3474468143069018],[24.223829066920818,1.3489426014131785]]}}
-,
-{"type":"Feature","properties":{"gid":3,"Enabled":1,"Subtype":1,"GlobalID":"{3145ed23-84cf-4e42-8e6b-307b7db42d02}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{3145ed23-84cf-4e42-8e6b-307b7db42d02}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.147461558010153,1.38434241753791],[24.14654171400009,1.3842719518274966]]}}
-,
-{"type":"Feature","properties":{"gid":4,"Enabled":1,"Subtype":1,"GlobalID":"{d13467a3-1918-466c-9777-cd6713613100}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{d13467a3-1918-466c-9777-cd6713613100}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.092651138522,1.3883026877023],[24.092644079745376,1.388116655884364],[24.09267273347342,1.3880137235233503],[24.09298594272469,1.3871202835741858]]}}
-,
-{"type":"Feature","properties":{"gid":5,"Enabled":1,"Subtype":1,"GlobalID":"{48b128eb-4691-4b2f-93ae-2c83aa167345}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{48b128eb-4691-4b2f-93ae-2c83aa167345}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10276655852846,1.3375042860335509],[24.102276024294962,1.337511817759092],[24.099968152484816,1.3375197045818585],[24.096514846169605,1.337481982543842],[24.093674029676706,1.337450950988622],[24.091303623984018,1.3374250584796012]]}}
-,
-{"type":"Feature","properties":{"gid":6,"Enabled":1,"Subtype":1,"GlobalID":"{fe7c43d0-8b5e-46a5-af6e-99bdf15323e1}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{fe7c43d0-8b5e-46a5-af6e-99bdf15323e1}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.091303623984018,1.3374250584796012],[24.09114937674734,1.334985482668979],[24.09093925692571,1.3316622246545111],[24.090797999642184,1.3294280971700385],[24.089676836729264,1.3271717119909847]]}}
-,
-{"type":"Feature","properties":{"gid":7,"Enabled":1,"Subtype":1,"GlobalID":"{a8f35bc2-e387-47e0-8ee0-dc76ad339487}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{a8f35bc2-e387-47e0-8ee0-dc76ad339487}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.225165567624828,1.2750834870699603],[24.2256885626462,1.2750224919636257],[24.226357047679983,1.2759620292227425]]}}
-,
-{"type":"Feature","properties":{"gid":10,"Enabled":1,"Subtype":1,"GlobalID":"{9ddc4519-070c-4f53-960b-9b92ddfa8d04}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{9ddc4519-070c-4f53-960b-9b92ddfa8d04}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.225888006913895,1.2943141549746446],[24.225830170895257,1.2965777155316232],[24.225754914864584,1.2992688628568414],[24.22569242890505,1.301758661466662]]}}
-,
-{"type":"Feature","properties":{"gid":11,"Enabled":1,"Subtype":1,"GlobalID":"{b1639ec0-499e-40ed-81a5-94919afb3e3e}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{b1639ec0-499e-40ed-81a5-94919afb3e3e}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.228662996931956,1.302410130481819],[24.23071193793114,1.302524749600342]]}}
-,
-{"type":"Feature","properties":{"gid":62,"Enabled":1,"Subtype":1,"GlobalID":"{1ce5317c-436b-4a83-b64c-c97b3eca7a8b}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{1ce5317c-436b-4a83-b64c-c97b3eca7a8b}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.105195472571335,1.3208459931649814],[24.104868352963333,1.3211519340427458]]}}
-,
-{"type":"Feature","properties":{"gid":13,"Enabled":1,"Subtype":1,"GlobalID":"{c22e04e1-712b-4413-9c7c-5af8c8bbb6a4}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{c22e04e1-712b-4413-9c7c-5af8c8bbb6a4}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13239893210552,1.3832023165245197],[24.130752661330543,1.3831057727616014],[24.12843473414651,1.382915024312697],[24.126147849793227,1.3828490000103777],[24.1239045401363,1.382811970543957],[24.121694198687308,1.3827345833395543],[24.11950710553338,1.3826984725978413],[24.116700249536493,1.3826521290459362],[24.114243235699114,1.3826115613520589],[24.11211737123061,1.3825436995882],[24.10967703741773,1.3825361680032013]]}}
-,
-{"type":"Feature","properties":{"gid":14,"Enabled":1,"Subtype":1,"GlobalID":"{ed4f8fb9-d1f0-4829-b84b-49853decc14a}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{ed4f8fb9-d1f0-4829-b84b-49853decc14a}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.178721892955572,1.3606889478400164],[24.17588211103576,1.3606093405833195],[24.171340804526576,1.3650840435624982]]}}
-,
-{"type":"Feature","properties":{"gid":15,"Enabled":1,"Subtype":1,"GlobalID":"{be3761a1-fb1e-4567-918e-3611812cb7fe}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{be3761a1-fb1e-4567-918e-3611812cb7fe}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.171340804526576,1.3650840435624982],[24.16931129912462,1.3669441155647992],[24.16770910341855,1.3684919032347869],[24.166009849533875,1.3701334512310765],[24.164553310161214,1.3715405329431813],[24.16292091873397,1.3731174929635723],[24.16094217647901,1.3750290413965895],[24.158270373146095,1.377554224319128],[24.15078941599524,1.3846246368580024],[24.147461558010153,1.38434241753791]]}}
-,
-{"type":"Feature","properties":{"gid":16,"Enabled":1,"Subtype":1,"GlobalID":"{6cda97b8-1a8f-4fbd-b8d0-d211f646c472}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{6cda97b8-1a8f-4fbd-b8d0-d211f646c472}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.14654171400009,1.3842719518274966],[24.145338315211887,1.3842046255648763]]}}
-,
-{"type":"Feature","properties":{"gid":17,"Enabled":1,"Subtype":1,"GlobalID":"{95d0df8f-cdb3-4855-90e8-928214759cec}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{95d0df8f-cdb3-4855-90e8-928214759cec}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.145338315211887,1.3842046255648763],[24.143526198423704,1.3840291686373276]]}}
-,
-{"type":"Feature","properties":{"gid":18,"Enabled":1,"Subtype":1,"GlobalID":"{d89c05fe-e2e6-477c-b30e-5d8b2d189ffe}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{d89c05fe-e2e6-477c-b30e-5d8b2d189ffe}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22569242890505,1.301758661466662],[24.22481947896414,1.3034537969700315],[24.224775092395703,1.305925384024092],[24.22468615857582,1.3083421308415477],[24.224706060717583,1.3106087408407696],[24.22463924054516,1.3131383868652022],[24.224714788342357,1.3148277936157673],[24.224652416552324,1.3170236891142606],[24.224588450617656,1.319275681413424],[24.224525877269105,1.3214786566620638],[24.224454942765817,1.3239610451380326],[24.22438945175201,1.3262529727250254],[24.224316794839563,1.3287956667993068],[24.224246607371345,1.3312519327202716],[24.224175138667512,1.3337530301099538]]}}
-,
-{"type":"Feature","properties":{"gid":19,"Enabled":1,"Subtype":1,"GlobalID":"{90203c41-603a-488c-9352-21f4163c6861}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{90203c41-603a-488c-9352-21f4163c6861}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.224175138667512,1.3337530301099538],[24.224051983594087,1.336145639869809],[24.22406585589432,1.3386200055886106],[24.223915899176014,1.3410873739683253],[24.223890436556264,1.3435675825129418]]}}
-,
-{"type":"Feature","properties":{"gid":20,"Enabled":1,"Subtype":1,"GlobalID":"{d2abe1f7-fd66-44ae-bedb-dbabd2b0d9d6}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{d2abe1f7-fd66-44ae-bedb-dbabd2b0d9d6}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10967703741773,1.3825361680032013],[24.10718715403744,1.382524738875761]]}}
-,
-{"type":"Feature","properties":{"gid":21,"Enabled":1,"Subtype":1,"GlobalID":"{42e702a8-7e1b-433d-a115-507b36be1a28}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{42e702a8-7e1b-433d-a115-507b36be1a28}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.226357047679983,1.2759620292227425],[24.22633534983505,1.2773105817896158],[24.2263032090037,1.278597849751691],[24.226232970793475,1.2811175537985615],[24.226182465584998,1.2829754383981966],[24.22614996533112,1.284398267589844]]}}
-,
-{"type":"Feature","properties":{"gid":69,"Enabled":1,"Subtype":1,"GlobalID":"{5a733f31-697e-43f5-a5eb-b7d7a8862234}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{5a733f31-697e-43f5-a5eb-b7d7a8862234}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.102346550043215,1.334435542076207],[24.101656667388045,1.3312027389426084]]}}
-,
-{"type":"Feature","properties":{"gid":22,"Enabled":1,"Subtype":1,"GlobalID":"{92eb8818-3fbe-4ca5-a32c-1bb331771362}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{92eb8818-3fbe-4ca5-a32c-1bb331771362}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22614996533112,1.284398267589844],[24.226085358073888,1.2863224543027412],[24.226003950984666,1.2891110124909084],[24.22589791992827,1.2909397459801892],[24.225888006913895,1.2943141549746446]]}}
-,
-{"type":"Feature","properties":{"gid":23,"Enabled":1,"Subtype":1,"GlobalID":"{b2666398-0621-4046-96b1-109b1b92c981}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{b2666398-0621-4046-96b1-109b1b92c981}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10718715403744,1.382524738875761],[24.104747884397145,1.3824770397760306],[24.102262133671232,1.3837010411234716],[24.10132702054631,1.384234083975462]]}}
-,
-{"type":"Feature","properties":{"gid":24,"Enabled":1,"Subtype":1,"GlobalID":"{2cff8f36-6e00-44bc-92b4-916b0a65f663}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{2cff8f36-6e00-44bc-92b4-916b0a65f663}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.095216752934505,1.3869729198336285],[24.092651138522,1.3883026877023]]}}
-,
-{"type":"Feature","properties":{"gid":25,"Enabled":1,"Subtype":1,"GlobalID":"{a47a0de1-4621-4fbf-9c33-efda8e4c03d9}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{a47a0de1-4621-4fbf-9c33-efda8e4c03d9}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10179655745645,1.355376341699053],[24.101985577061203,1.352588465197237],[24.10218120158356,1.3497031751940494]]}}
-,
-{"type":"Feature","properties":{"gid":89,"Enabled":1,"Subtype":1,"GlobalID":"{0351b3af-df3f-49a9-8093-c896436eb5c5}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{0351b3af-df3f-49a9-8093-c896436eb5c5}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22569242890505,1.301758661466662],[24.226467030974728,1.3022555679872778],[24.228662996931956,1.302410130481819]]}}
-,
-{"type":"Feature","properties":{"gid":26,"Enabled":1,"Subtype":1,"GlobalID":"{c35790df-098d-4b00-9e1f-00d98c16375d}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{c35790df-098d-4b00-9e1f-00d98c16375d}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.223829066920818,1.3489426014131785],[24.223665016610774,1.3501338397495342],[24.223587691433917,1.3506953300915192],[24.223586669546325,1.3511447736566053],[24.223594059555477,1.3534027628565712],[24.223569136774273,1.3536074680368961],[24.223434278621315,1.35471513422728],[24.22340751080444,1.3549327762992176],[24.22344981272219,1.3566345685491767]]}}
-,
-{"type":"Feature","properties":{"gid":27,"Enabled":1,"Subtype":1,"GlobalID":"{eb2563e4-7a40-4935-a119-208b6497b239}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{eb2563e4-7a40-4935-a119-208b6497b239}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13493423944633,1.3666978825459712],[24.13537952026882,1.366068614009405]]}}
-,
-{"type":"Feature","properties":{"gid":28,"Enabled":1,"Subtype":1,"GlobalID":"{950eddac-8119-425f-94b3-ea72ee4ea979}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{950eddac-8119-425f-94b3-ea72ee4ea979}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22350958539399,1.3488332601497388],[24.223829066920818,1.3489426014131785]]}}
-,
-{"type":"Feature","properties":{"gid":29,"Enabled":1,"Subtype":1,"GlobalID":"{c217d3d1-5643-4f15-a4ba-15849d8928bb}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{c217d3d1-5643-4f15-a4ba-15849d8928bb}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13306087423972,1.3673332988156366],[24.13493423944633,1.3666978825459712]]}}
-,
-{"type":"Feature","properties":{"gid":30,"Enabled":1,"Subtype":1,"GlobalID":"{e64074df-154a-4c20-8b00-d9dadc3c9da4}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{e64074df-154a-4c20-8b00-d9dadc3c9da4}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22344981272219,1.3566345685491767],[24.223148269903454,1.3566278217542649]]}}
-,
-{"type":"Feature","properties":{"gid":31,"Enabled":1,"Subtype":1,"GlobalID":"{3466bb6d-343d-4518-8735-80c3ad8ce3de}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{3466bb6d-343d-4518-8735-80c3ad8ce3de}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.11213559465773,1.3342181856368325],[24.113486418702013,1.3342165087864217]]}}
-,
-{"type":"Feature","properties":{"gid":32,"Enabled":1,"Subtype":1,"GlobalID":"{cb4b759b-598d-4e06-9afd-58435b4b01e5}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{cb4b759b-598d-4e06-9afd-58435b4b01e5}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.072009457412666,1.38397986038827],[24.07173387053873,1.3834560089683927]]}}
-,
-{"type":"Feature","properties":{"gid":33,"Enabled":1,"Subtype":1,"GlobalID":"{de9455d7-6f3e-47ff-bb47-708e7d4ec97c}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{de9455d7-6f3e-47ff-bb47-708e7d4ec97c}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.09298594272469,1.3871202835741858],[24.09308334059283,1.387194528371289]]}}
-,
-{"type":"Feature","properties":{"gid":34,"Enabled":1,"Subtype":1,"GlobalID":"{2008861f-abf4-44d3-a285-d6bb3f401c57}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{2008861f-abf4-44d3-a285-d6bb3f401c57}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.101656667388045,1.3312027389426084],[24.102351350800646,1.331075403836804]]}}
-,
-{"type":"Feature","properties":{"gid":35,"Enabled":1,"Subtype":1,"GlobalID":"{7cab8055-c0a9-4877-9cde-65e503f86df0}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{7cab8055-c0a9-4877-9cde-65e503f86df0}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.099896568201974,1.3847171815658987],[24.099760041200867,1.384182257688922]]}}
-,
-{"type":"Feature","properties":{"gid":36,"Enabled":1,"Subtype":1,"GlobalID":"{004d8af3-7a96-4f8a-ad90-0e178b28a40f}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{004d8af3-7a96-4f8a-ad90-0e178b28a40f}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10132702054631,1.384234083975462],[24.099896568201974,1.3847171815658987]]}}
-,
-{"type":"Feature","properties":{"gid":37,"Enabled":1,"Subtype":1,"GlobalID":"{25c9c6d7-f290-42f5-938a-a2df07ab49f4}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{25c9c6d7-f290-42f5-938a-a2df07ab49f4}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.099896568201974,1.3847171815658987],[24.098636623087753,1.3854986901066153],[24.096764570125746,1.386250551186624],[24.095216752934505,1.3869729198336285]]}}
-,
-{"type":"Feature","properties":{"gid":39,"Enabled":1,"Subtype":1,"GlobalID":"{16d29840-1160-4af0-9779-052c2c907071}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{16d29840-1160-4af0-9779-052c2c907071}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.147028573666763,1.382761512452438],[24.146446249966125,1.3827777733471933]]}}
-,
-{"type":"Feature","properties":{"gid":40,"Enabled":1,"Subtype":1,"GlobalID":"{5d4caa04-6244-43b2-8914-7598ed738d73}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{5d4caa04-6244-43b2-8914-7598ed738d73}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10218120158356,1.3497031751940494],[24.101261296964985,1.349608118103964]]}}
-,
-{"type":"Feature","properties":{"gid":41,"Enabled":1,"Subtype":1,"GlobalID":"{f0c03b37-ef12-4f61-b68b-4cfd28b9499a}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{f0c03b37-ef12-4f61-b68b-4cfd28b9499a}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22762511574342,1.2945354830266431],[24.227522787443846,1.2950209797505303]]}}
-,
-{"type":"Feature","properties":{"gid":42,"Enabled":1,"Subtype":1,"GlobalID":"{676a200f-9f64-43d5-b5a9-4b9de2767bf1}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{676a200f-9f64-43d5-b5a9-4b9de2767bf1}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13948939006575,1.38376407108779],[24.139456251308307,1.3842345588383826]]}}
-,
-{"type":"Feature","properties":{"gid":43,"Enabled":1,"Subtype":1,"GlobalID":"{d0fcc063-ffaa-47cc-9866-84f4385b76b3}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{d0fcc063-ffaa-47cc-9866-84f4385b76b3}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13948939006575,1.38376407108779],[24.135958549967665,1.3834688908623753],[24.13239893210552,1.3832023165245197]]}}
-,
-{"type":"Feature","properties":{"gid":44,"Enabled":1,"Subtype":1,"GlobalID":"{8cd376ea-e710-4891-922b-608bd9fc929e}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{8cd376ea-e710-4891-922b-608bd9fc929e}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.139204211543465,1.3921524494528208],[24.138829122417704,1.3925322370356739]]}}
-,
-{"type":"Feature","properties":{"gid":45,"Enabled":1,"Subtype":1,"GlobalID":"{e9461f2c-4122-4e8b-b05e-c7722d23dafa}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{e9461f2c-4122-4e8b-b05e-c7722d23dafa}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10718715403744,1.382524738875761],[24.107018634202504,1.38173112808795]]}}
-,
-{"type":"Feature","properties":{"gid":46,"Enabled":1,"Subtype":1,"GlobalID":"{3f0ce0de-f76b-4b97-84fa-d758c3197d18}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{3f0ce0de-f76b-4b97-84fa-d758c3197d18}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.14230561500997,1.3846636432473438],[24.143526198423704,1.3840291686373276]]}}
-,
-{"type":"Feature","properties":{"gid":47,"Enabled":1,"Subtype":1,"GlobalID":"{a52c39e8-852c-4198-bc78-ed8b7064ce07}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{a52c39e8-852c-4198-bc78-ed8b7064ce07}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.11213559465773,1.3342181856368325],[24.112746667932413,1.3350753265928375]]}}
-,
-{"type":"Feature","properties":{"gid":48,"Enabled":1,"Subtype":1,"GlobalID":"{43e9071f-0194-4375-8e2f-166a5fea08b9}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{43e9071f-0194-4375-8e2f-166a5fea08b9}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.132706463890294,1.3762801941709943],[24.133244749169023,1.3763268238929889]]}}
-,
-{"type":"Feature","properties":{"gid":49,"Enabled":1,"Subtype":1,"GlobalID":"{dd87318f-e6e3-463e-8439-5017491742b8}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{dd87318f-e6e3-463e-8439-5017491742b8}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10179655745645,1.355376341699053],[24.100932322454813,1.3553643290723563]]}}
-,
-{"type":"Feature","properties":{"gid":50,"Enabled":1,"Subtype":1,"GlobalID":"{8ff0a676-9fa1-416f-abbb-d5080c027b8f}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{8ff0a676-9fa1-416f-abbb-d5080c027b8f}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.072009457412666,1.38397986038827],[24.07158743616124,1.38239990196962]]}}
-,
-{"type":"Feature","properties":{"gid":94,"Enabled":1,"Subtype":1,"GlobalID":"{8cec126f-5286-406f-89f5-b2b212a8ce1e}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{8cec126f-5286-406f-89f5-b2b212a8ce1e}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.14654171400009,1.3842719518274966],[24.146446249966125,1.3827777733471933]]}}
-,
-{"type":"Feature","properties":{"gid":51,"Enabled":1,"Subtype":1,"GlobalID":"{38122d64-1f20-415c-be7f-919955853522}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{38122d64-1f20-415c-be7f-919955853522}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.101656667388045,1.3312027389426084],[24.10148944429321,1.3305275351865584],[24.100783201570092,1.3276758408387743],[24.099699716005016,1.3246324714183182],[24.09920250778843,1.323819632511394]]}}
-,
-{"type":"Feature","properties":{"gid":52,"Enabled":1,"Subtype":1,"GlobalID":"{324dd137-287d-4c8c-a4d4-5b73b015e7b6}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{324dd137-287d-4c8c-a4d4-5b73b015e7b6}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.0779993452568,1.3968471423330435],[24.07621205822282,1.3981531390793347]]}}
-,
-{"type":"Feature","properties":{"gid":53,"Enabled":1,"Subtype":1,"GlobalID":"{239da942-86f2-4416-a70c-45338d539b1c}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{239da942-86f2-4416-a70c-45338d539b1c}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.07621205822282,1.3981531390793347],[24.0759242284308,1.3979158710500268],[24.074083680615594,1.3965648272477853],[24.074404145973507,1.3935775008410414],[24.073003329778793,1.390562731532613],[24.07261931992674,1.3881799013213898],[24.072180776514852,1.385159712816687],[24.072009457412666,1.38397986038827]]}}
-,
-{"type":"Feature","properties":{"gid":54,"Enabled":1,"Subtype":1,"GlobalID":"{c83de4b7-505a-4fdb-b95d-d80bb51b6bca}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{c83de4b7-505a-4fdb-b95d-d80bb51b6bca}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13884309620194,1.3556539425649918],[24.13827867033389,1.355749947746266]]}}
-,
-{"type":"Feature","properties":{"gid":55,"Enabled":1,"Subtype":1,"GlobalID":"{6bf1f445-87bd-4fb9-993a-7eae1f1330eb}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{6bf1f445-87bd-4fb9-993a-7eae1f1330eb}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.139204211543465,1.3921524494528208],[24.139897149994905,1.3927287675885538],[24.13977908744544,1.3941082531145967]]}}
-,
-{"type":"Feature","properties":{"gid":56,"Enabled":1,"Subtype":1,"GlobalID":"{5f74de96-b638-49b2-a4f0-f9b7b217b4be}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{5f74de96-b638-49b2-a4f0-f9b7b217b4be}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.132890138670582,1.3687097638820371],[24.13306087423972,1.3673332988156366]]}}
-,
-{"type":"Feature","properties":{"gid":57,"Enabled":1,"Subtype":1,"GlobalID":"{b7bd1a16-06dc-40ac-93f2-f1875ed4f5e8}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{b7bd1a16-06dc-40ac-93f2-f1875ed4f5e8}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13977908744544,1.3941082531145967],[24.139581653124925,1.3942494220815618]]}}
-,
-{"type":"Feature","properties":{"gid":58,"Enabled":1,"Subtype":1,"GlobalID":"{a9cb3f02-2bc8-4c3c-9645-a326d2661000}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{a9cb3f02-2bc8-4c3c-9645-a326d2661000}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.132995791980946,1.3728503904653255],[24.13260483752178,1.3715003863799846],[24.132890138670582,1.3687097638820371]]}}
-,
-{"type":"Feature","properties":{"gid":59,"Enabled":1,"Subtype":1,"GlobalID":"{cf062aa2-704a-440f-b122-0e9d06df4906}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{cf062aa2-704a-440f-b122-0e9d06df4906}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13239893210552,1.3832023165245197],[24.132369401668406,1.3828013544625752],[24.132271540074726,1.3804610752214608],[24.132484896108647,1.377649927079116],[24.132706463890294,1.3762801941709943]]}}
-,
-{"type":"Feature","properties":{"gid":60,"Enabled":1,"Subtype":1,"GlobalID":"{bf65259d-a6f7-4727-b7e7-67ad06ae1944}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{bf65259d-a6f7-4727-b7e7-67ad06ae1944}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.132706463890294,1.3762801941709943],[24.1328204346609,1.3750120181288945],[24.132844693567552,1.3747420877899896],[24.132886239993237,1.3741793123218708],[24.132995791980946,1.3728503904653255]]}}
-,
-{"type":"Feature","properties":{"gid":61,"Enabled":1,"Subtype":1,"GlobalID":"{f710ee84-8fde-4aab-b1df-04cc5fbaa79e}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{f710ee84-8fde-4aab-b1df-04cc5fbaa79e}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.09920250778843,1.323819632511394],[24.100476401315888,1.3232052628622804],[24.101766637997294,1.3225602178270706],[24.103326963092655,1.32178014321755],[24.105195472571335,1.3208459931649814]]}}
-,
-{"type":"Feature","properties":{"gid":63,"Enabled":1,"Subtype":1,"GlobalID":"{fadc0a9a-4943-42bd-9d4e-b9520865cfda}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{fadc0a9a-4943-42bd-9d4e-b9520865cfda}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10276655852846,1.3375042860335509],[24.102520789629665,1.3356026732575703],[24.102346550043215,1.334435542076207]]}}
-,
-{"type":"Feature","properties":{"gid":64,"Enabled":1,"Subtype":1,"GlobalID":"{1c68aa72-e312-4a01-ad87-2d41b62b58eb}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{1c68aa72-e312-4a01-ad87-2d41b62b58eb}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.136290288507574,1.390842619484191],[24.138089688785634,1.3915346998665665],[24.139204211543465,1.3921524494528208]]}}
-,
-{"type":"Feature","properties":{"gid":65,"Enabled":1,"Subtype":1,"GlobalID":"{0e49b557-91b9-4120-800d-eb99466707f9}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{0e49b557-91b9-4120-800d-eb99466707f9}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.23348115886519,1.337133719472071],[24.233883151119834,1.3371345649418613]]}}
-,
-{"type":"Feature","properties":{"gid":66,"Enabled":1,"Subtype":1,"GlobalID":"{d8c6c919-93d1-4df5-8df1-2bcc4bf92df5}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{d8c6c919-93d1-4df5-8df1-2bcc4bf92df5}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10218120158356,1.3497031751940494],[24.102333798295586,1.3465230647840156],[24.102487151909187,1.343327166753231],[24.102641005895325,1.3401208314577517],[24.10276655852846,1.3375042860335509]]}}
-,
-{"type":"Feature","properties":{"gid":101,"Enabled":1,"Subtype":1,"GlobalID":"{f1f77a4a-59c9-4342-be1d-c09965c4e352}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{f1f77a4a-59c9-4342-be1d-c09965c4e352}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.171340804526576,1.3650840435624982],[24.168150226215662,1.3635607170996873]]}}
-,
-{"type":"Feature","properties":{"gid":67,"Enabled":1,"Subtype":1,"GlobalID":"{9cbe2fc1-68f6-464a-8d74-853d145fe366}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{9cbe2fc1-68f6-464a-8d74-853d145fe366}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.09298594272469,1.3871202835741858],[24.094209939947728,1.3841991174366928],[24.095510594244555,1.381068387744286],[24.09726154859382,1.378805847813959],[24.099091281314568,1.376513802136317],[24.101096448877872,1.3737881250414412],[24.101406880004394,1.3708663324022308],[24.101452243356412,1.3675605540287963],[24.101491359803887,1.364556100197718],[24.10153228182101,1.361413057411741],[24.10153473998923,1.36122420670291],[24.101674467965122,1.3582100742852772],[24.10173944028288,1.3568085267868917],[24.10179655745645,1.355376341699053]]}}
-,
-{"type":"Feature","properties":{"gid":68,"Enabled":1,"Subtype":1,"GlobalID":"{9c41cf8d-bca0-4b49-bf3d-599bc3c9d073}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{9c41cf8d-bca0-4b49-bf3d-599bc3c9d073}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22344981272219,1.3566345685491767],[24.223482552591094,1.357264966832353],[24.22354313854446,1.358083490231775],[24.223305780132915,1.3591819599725936],[24.223299521952363,1.3592103125449768],[24.22335318303162,1.3615664128226654],[24.223363286328517,1.3617533823534493],[24.220590034224102,1.3616950229822957],[24.219634329711866,1.3616749122772858],[24.218386920691756,1.361677354251218],[24.21703841950368,1.361679993499436],[24.216181384228683,1.3616816703309287],[24.21503037092212,1.3616839234851636],[24.213073918502136,1.361687752015548],[24.210775916011865,1.3612581477511707],[24.20796626779523,1.3611055053264614],[24.207930284666535,1.3611010863812385],[24.20514744091378,1.3607593705631595],[24.202585389717594,1.3604447658349523],[24.199023706937776,1.3605362884700367],[24.19697586816769,1.3605893538703002],[24.19396429496315,1.3608615544563898],[24.190755790629645,1.3609444237770898],[24.188158050890298,1.3610068512452962],[24.18622147242208,1.3608677798715347],[24.184283398474225,1.3607301175923867],[24.18213649016885,1.3607114230275041],[24.180931858068032,1.3607034940068299],[24.178721892955572,1.3606889478400164]]}}
-,
-{"type":"Feature","properties":{"gid":70,"Enabled":1,"Subtype":1,"GlobalID":"{fd4382f8-7052-4288-9ac9-a745ae0a3ad1}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{fd4382f8-7052-4288-9ac9-a745ae0a3ad1}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.092651138522,1.3883026877023],[24.08980054573623,1.3896306920569468],[24.089764998143085,1.3896483323993092],[24.086293309127242,1.391485636954683],[24.084663733881243,1.3922779283866586],[24.082386101486787,1.3933487023501698],[24.080730092475438,1.3941904435101375],[24.079407172305135,1.395477490987435],[24.0779993452568,1.3968471423330435]]}}
-,
-{"type":"Feature","properties":{"gid":71,"Enabled":1,"Subtype":1,"GlobalID":"{98b1a5bb-c150-4be9-9fdc-4b258727da19}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{98b1a5bb-c150-4be9-9fdc-4b258727da19}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13306087423972,1.3673332988156366],[24.13326173082653,1.365566021975791],[24.13331532424978,1.3613301444249641],[24.133317583678476,1.3612885589976331],[24.133461724799265,1.3586361957874582],[24.135591848777146,1.3586557513308721],[24.13797266785675,1.358677607940702],[24.13884309620194,1.3556539425649918]]}}
-,
-{"type":"Feature","properties":{"gid":72,"Enabled":1,"Subtype":1,"GlobalID":"{c287518a-a5d8-45e6-a457-eab16350f3e2}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{c287518a-a5d8-45e6-a457-eab16350f3e2}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13239893210552,1.3832023165245197],[24.13242829340263,1.383581564454467],[24.132677750963243,1.3859504155091837],[24.13357082997544,1.3889230576251432],[24.13463669819845,1.390415149598524],[24.136290288507574,1.390842619484191]]}}
-,
-{"type":"Feature","properties":{"gid":73,"Enabled":1,"Subtype":1,"GlobalID":"{3508c0d1-1721-4025-8247-c879ad8a75a4}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{3508c0d1-1721-4025-8247-c879ad8a75a4}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.223890436556264,1.3435675825129418],[24.224698942741952,1.3435677558337835],[24.224741367286214,1.343567761470248],[24.225776948170548,1.3435679066088433],[24.225783620744135,1.3414321320121345],[24.22578608736935,1.3393019426923907],[24.22809035508767,1.3389202514373482],[24.228125603866804,1.3389139400099797],[24.231273722395947,1.3383502529651448],[24.23133509625989,1.3383389039479765],[24.23348210463977,1.3379418672714816],[24.233476090302737,1.3372413731377004],[24.23348115886519,1.337133719472071]]}}
-,
-{"type":"Feature","properties":{"gid":74,"Enabled":1,"Subtype":1,"GlobalID":"{73d69c4d-ced6-4239-9a67-24c3946c8664}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{73d69c4d-ced6-4239-9a67-24c3946c8664}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.15203753822242,1.3915258846342398],[24.15271196711822,1.3917751248881545]]}}
-,
-{"type":"Feature","properties":{"gid":75,"Enabled":1,"Subtype":1,"GlobalID":"{1ada5a2e-2e30-4a7d-9edf-89b07d8d2b34}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{1ada5a2e-2e30-4a7d-9edf-89b07d8d2b34}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.225888006913895,1.2943141549746446],[24.226285212506113,1.294299540778489],[24.22762511574342,1.2945354830266431]]}}
-,
-{"type":"Feature","properties":{"gid":76,"Enabled":1,"Subtype":1,"GlobalID":"{fe4973bd-0cee-4d70-81ff-430fff4abcf8}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{fe4973bd-0cee-4d70-81ff-430fff4abcf8}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.146983389321257,1.3894852617384188],[24.148093290328173,1.3897867694165158],[24.14984891717035,1.3905171941313237],[24.15096916813668,1.3912439761363724],[24.15203753822242,1.3915258846342398]]}}
-,
-{"type":"Feature","properties":{"gid":77,"Enabled":1,"Subtype":1,"GlobalID":"{73247e33-e667-4c67-ad39-5f7354690a96}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{73247e33-e667-4c67-ad39-5f7354690a96}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.145338315211887,1.3842046255648763],[24.145870074505034,1.3861173952230195],[24.146391503571767,1.3876930055396128],[24.146983389321257,1.3894852617384188]]}}
-,
-{"type":"Feature","properties":{"gid":78,"Enabled":1,"Subtype":1,"GlobalID":"{209eea72-5e0f-47af-9b8d-acd471c7bedf}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{209eea72-5e0f-47af-9b8d-acd471c7bedf}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.08646108756512,1.397938210614172],[24.08674201362553,1.397848941128399],[24.086749066764153,1.397385243634985]]}}
-,
-{"type":"Feature","properties":{"gid":79,"Enabled":1,"Subtype":1,"GlobalID":"{6349a0e6-25b8-403a-98d7-7f1a14ec1894}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{6349a0e6-25b8-403a-98d7-7f1a14ec1894}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.0779993452568,1.3968471423330435],[24.081442662444623,1.3981126294241428],[24.08340283312594,1.3996709592226033],[24.084868184693377,1.3987387415828358],[24.08646108756512,1.397938210614172]]}}
-,
-{"type":"Feature","properties":{"gid":80,"Enabled":1,"Subtype":1,"GlobalID":"{73447d87-a525-4b67-8a21-16493ed00c38}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{73447d87-a525-4b67-8a21-16493ed00c38}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22762511574342,1.2945354830266431],[24.22850292282176,1.2947005018141704],[24.23045418546228,1.2950440910573129],[24.230454680196825,1.2971486380944226]]}}
-,
-{"type":"Feature","properties":{"gid":81,"Enabled":1,"Subtype":1,"GlobalID":"{427e4a81-78dc-47fd-b6e3-1f59b237e5b8}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{427e4a81-78dc-47fd-b6e3-1f59b237e5b8}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.08323707873024,1.334740494889686],[24.08321512153729,1.3342647034392552]]}}
-,
-{"type":"Feature","properties":{"gid":82,"Enabled":1,"Subtype":1,"GlobalID":"{3d15fe5f-7b71-41b0-853a-30a81354099c}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{3d15fe5f-7b71-41b0-853a-30a81354099c}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.132890138670582,1.3687097638820371],[24.130843210437575,1.3664737131786022],[24.129137276931804,1.3650100249422588],[24.128789553250968,1.3646745970845509]]}}
-,
-{"type":"Feature","properties":{"gid":83,"Enabled":1,"Subtype":1,"GlobalID":"{682974b0-076f-498a-b56f-f4b0fce1c2d2}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{682974b0-076f-498a-b56f-f4b0fce1c2d2}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.091303623984018,1.3374250584796012],[24.08797445234481,1.3373833796419237],[24.08558395845634,1.3373534514234384],[24.08326745627693,1.3355237626936542],[24.08326616799382,1.3354905512093085],[24.08323707873024,1.334740494889686]]}}
-,
-{"type":"Feature","properties":{"gid":84,"Enabled":1,"Subtype":1,"GlobalID":"{c26697df-b0bd-4809-bd0a-074c1d692cab}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{c26697df-b0bd-4809-bd0a-074c1d692cab}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.086321000166695,1.3432763146918358],[24.08603132674851,1.3437243646041943]]}}
-,
-{"type":"Feature","properties":{"gid":85,"Enabled":1,"Subtype":1,"GlobalID":"{042dbbde-4d88-4bc6-98db-100ec6df57c6}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{042dbbde-4d88-4bc6-98db-100ec6df57c6}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.091303623984018,1.3374250584796012],[24.09021797624575,1.3395032544989272],[24.089201539192118,1.3421377090289768],[24.08769424653897,1.342643524334895],[24.086321000166695,1.3432763146918358]]}}
-,
-{"type":"Feature","properties":{"gid":86,"Enabled":1,"Subtype":1,"GlobalID":"{10ee05b9-cb87-46a6-8c49-7d39cb4ba7c4}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{10ee05b9-cb87-46a6-8c49-7d39cb4ba7c4}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.128789553250968,1.3646745970845509],[24.128525114113526,1.364389089384215]]}}
-,
-{"type":"Feature","properties":{"gid":87,"Enabled":1,"Subtype":1,"GlobalID":"{74010a4f-6c22-4ea2-81e8-f6866a7d9af0}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{74010a4f-6c22-4ea2-81e8-f6866a7d9af0}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.23071193793114,1.302524749600342],[24.230976113492062,1.302355403866917]]}}
-,
-{"type":"Feature","properties":{"gid":88,"Enabled":1,"Subtype":1,"GlobalID":"{0549b741-db49-491d-83f0-79d5fc93ddd2}","cableSize":12,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{0549b741-db49-491d-83f0-79d5fc93ddd2}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.102346550043215,1.334435542076207],[24.103511421555005,1.3347164398415685]]}}
-,
-{"type":"Feature","properties":{"gid":90,"Enabled":1,"Subtype":1,"GlobalID":"{5b30ede1-31db-4522-b611-7fe55977ded6}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{5b30ede1-31db-4522-b611-7fe55977ded6}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.113923594898775,1.3875920317907993],[24.113961091830603,1.388023136221462]]}}
-,
-{"type":"Feature","properties":{"gid":91,"Enabled":1,"Subtype":1,"GlobalID":"{6d889b90-6a90-4e05-97ae-c3163d19a92b}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{6d889b90-6a90-4e05-97ae-c3163d19a92b}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10967703741773,1.3825361680032013],[24.10986835450769,1.3828768365756632],[24.111357804298763,1.384646474912489],[24.11256846765061,1.3860865770662254],[24.112589911785513,1.3861120843715642],[24.113923594898775,1.3875920317907993]]}}
-,
-{"type":"Feature","properties":{"gid":92,"Enabled":1,"Subtype":1,"GlobalID":"{43ff7e13-c45d-4504-8fe3-197388d9ee0a}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{43ff7e13-c45d-4504-8fe3-197388d9ee0a}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.095216752934505,1.3869729198336285],[24.096067995163985,1.3876030240769037],[24.096460509939785,1.3879188624059278],[24.095259607376303,1.3881761461060096]]}}
-,
-{"type":"Feature","properties":{"gid":93,"Enabled":1,"Subtype":1,"GlobalID":"{fc32df78-8edc-48d3-8f0b-6ec6facb442e}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{fc32df78-8edc-48d3-8f0b-6ec6facb442e}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.146446249966125,1.3827777733471933],[24.146000871888138,1.3823610110884192],[24.145251967824723,1.3822735390124783]]}}
-,
-{"type":"Feature","properties":{"gid":95,"Enabled":1,"Subtype":1,"GlobalID":"{cb8e35d2-d80e-4628-972c-03279a1b7464}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{cb8e35d2-d80e-4628-972c-03279a1b7464}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22602330905939,1.3338951072716625],[24.225379167502265,1.3339825585527807],[24.22480477223984,1.3338730602086915],[24.224175138667512,1.3337530301099538]]}}
-,
-{"type":"Feature","properties":{"gid":96,"Enabled":1,"Subtype":1,"GlobalID":"{a9c28106-14a3-41a3-ad58-32ee7259a2f4}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{a9c28106-14a3-41a3-ad58-32ee7259a2f4}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.10132702054631,1.384234083975462],[24.10140200595296,1.3844318819889752],[24.101629137031598,1.384737992394019]]}}
-,
-{"type":"Feature","properties":{"gid":97,"Enabled":1,"Subtype":1,"GlobalID":"{2e153623-c1e3-4db2-aa8c-ecde17fa7294}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{2e153623-c1e3-4db2-aa8c-ecde17fa7294}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.146983389321257,1.3894852617384188],[24.14455389597383,1.3897275497798474],[24.1434732279995,1.3895355167783399]]}}
-,
-{"type":"Feature","properties":{"gid":98,"Enabled":1,"Subtype":1,"GlobalID":"{8441809d-2c83-48b9-9605-b25beacf79ce}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{8441809d-2c83-48b9-9605-b25beacf79ce}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.13585668962213,1.3929827098271992],[24.13610429369008,1.3929347389852533]]}}
-,
-{"type":"Feature","properties":{"gid":99,"Enabled":1,"Subtype":1,"GlobalID":"{4282ce9e-5438-476a-b727-8e1e7a3a9ef4}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{4282ce9e-5438-476a-b727-8e1e7a3a9ef4}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.136290288507574,1.390842619484191],[24.13585668962213,1.3929827098271992]]}}
-,
-{"type":"Feature","properties":{"gid":100,"Enabled":1,"Subtype":1,"GlobalID":"{bc9aa031-d10e-4004-bcdd-064b968b53e1}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{bc9aa031-d10e-4004-bcdd-064b968b53e1}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.168150226215662,1.3635607170996873],[24.16809008848333,1.3629495955585829]]}}
-,
-{"type":"Feature","properties":{"gid":102,"Enabled":1,"Subtype":1,"GlobalID":"{c15797fe-acdb-43c6-8e8b-a00db1029100}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{c15797fe-acdb-43c6-8e8b-a00db1029100}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.22614996533112,1.284398267589844],[24.226693558787318,1.2841821116318524],[24.227279958762313,1.2841821116318524]]}}
-,
-{"type":"Feature","properties":{"gid":103,"Enabled":1,"Subtype":1,"GlobalID":"{f44b9fb2-2a95-433d-8aa8-ed6ba15ddff5}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{f44b9fb2-2a95-433d-8aa8-ed6ba15ddff5}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.171340804526576,1.3650840435624982],[24.1721621061544,1.3650527389944949],[24.172958098797984,1.3651042416032368]]}}
-,
-{"type":"Feature","properties":{"gid":104,"Enabled":1,"Subtype":1,"GlobalID":"{ec5d1b15-29d3-4f1b-8373-e99efddd3217}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{ec5d1b15-29d3-4f1b-8373-e99efddd3217}","class":"A","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.228662996931956,1.302410130481819],[24.229273406332084,1.3019189154930446],[24.229816582576245,1.3014947203504201]]}}
-,
-{"type":"Feature","properties":{"gid":8,"Enabled":1,"Subtype":1,"GlobalID":"{b5516d0c-96c6-4203-8ded-5c05b42ec799}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{b5516d0c-96c6-4203-8ded-5c05b42ec799}","class":"U","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.103511421555005,1.3347164398415685],[24.11213559465773,1.3342181856368325]]}}
-,
-{"type":"Feature","properties":{"gid":9,"Enabled":1,"Subtype":1,"GlobalID":"{501166b3-69fb-4fe5-bedf-323a730efdc7}","cableSize":4,"cableType":"Loose Tube","modeGauge":"sm","status":null,"workOrder":"13-1","splitGuid":"{501166b3-69fb-4fe5-bedf-323a730efdc7}","class":"U","cn_substat":"13","cn_feeder":"1"},"geometry":{"type":"LineString","coordinates":[[24.11213559465773,1.3342181856368325],[24.111443565333868,1.3329840995248983]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 12,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{8f33c1fe-5aaf-448e-8fa5-035efd053936}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{8f33c1fe-5aaf-448e-8fa5-035efd053936}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.143526198423704,
+            1.3840291686373276
+          ],
+          [
+            24.13948939006575,
+            1.38376407108779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 38,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{7865bb12-7ee0-49cb-8553-9446174fcbd1}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{7865bb12-7ee0-49cb-8553-9446174fcbd1}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.136290288507574,
+            1.390842619484191
+          ],
+          [
+            24.136301155753543,
+            1.3915237991892537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 1,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{2830afc1-6e6c-4d65-8a3e-65aee94c9b03}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{2830afc1-6e6c-4d65-8a3e-65aee94c9b03}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.089676836729264,
+            1.3271717119909847
+          ],
+          [
+            24.08961770678952,
+            1.3264810208778328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 2,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{cfb41304-58ae-4d94-9a3a-2dd31f1add5d}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{cfb41304-58ae-4d94-9a3a-2dd31f1add5d}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.223890436556264,
+            1.3435675825129418
+          ],
+          [
+            24.223861226075666,
+            1.3460499670253545
+          ],
+          [
+            24.22384569620329,
+            1.3474468143069018
+          ],
+          [
+            24.223829066920818,
+            1.3489426014131785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 3,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{3145ed23-84cf-4e42-8e6b-307b7db42d02}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{3145ed23-84cf-4e42-8e6b-307b7db42d02}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.147461558010153,
+            1.38434241753791
+          ],
+          [
+            24.14654171400009,
+            1.3842719518274966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 4,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{d13467a3-1918-466c-9777-cd6713613100}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{d13467a3-1918-466c-9777-cd6713613100}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.092651138522,
+            1.3883026877023
+          ],
+          [
+            24.092644079745376,
+            1.388116655884364
+          ],
+          [
+            24.09267273347342,
+            1.3880137235233503
+          ],
+          [
+            24.09298594272469,
+            1.3871202835741858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 5,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{48b128eb-4691-4b2f-93ae-2c83aa167345}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{48b128eb-4691-4b2f-93ae-2c83aa167345}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10276655852846,
+            1.3375042860335509
+          ],
+          [
+            24.102276024294962,
+            1.337511817759092
+          ],
+          [
+            24.099968152484816,
+            1.3375197045818585
+          ],
+          [
+            24.096514846169605,
+            1.337481982543842
+          ],
+          [
+            24.093674029676706,
+            1.337450950988622
+          ],
+          [
+            24.091303623984018,
+            1.3374250584796012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 6,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{fe7c43d0-8b5e-46a5-af6e-99bdf15323e1}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{fe7c43d0-8b5e-46a5-af6e-99bdf15323e1}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.091303623984018,
+            1.3374250584796012
+          ],
+          [
+            24.09114937674734,
+            1.334985482668979
+          ],
+          [
+            24.09093925692571,
+            1.3316622246545111
+          ],
+          [
+            24.090797999642184,
+            1.3294280971700385
+          ],
+          [
+            24.089676836729264,
+            1.3271717119909847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 7,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{a8f35bc2-e387-47e0-8ee0-dc76ad339487}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{a8f35bc2-e387-47e0-8ee0-dc76ad339487}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.225165567624828,
+            1.2750834870699603
+          ],
+          [
+            24.2256885626462,
+            1.2750224919636257
+          ],
+          [
+            24.226357047679983,
+            1.2759620292227425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 10,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{9ddc4519-070c-4f53-960b-9b92ddfa8d04}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{9ddc4519-070c-4f53-960b-9b92ddfa8d04}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.225888006913895,
+            1.2943141549746446
+          ],
+          [
+            24.225830170895257,
+            1.2965777155316232
+          ],
+          [
+            24.225754914864584,
+            1.2992688628568414
+          ],
+          [
+            24.22569242890505,
+            1.301758661466662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 11,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{b1639ec0-499e-40ed-81a5-94919afb3e3e}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{b1639ec0-499e-40ed-81a5-94919afb3e3e}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.228662996931956,
+            1.302410130481819
+          ],
+          [
+            24.23071193793114,
+            1.302524749600342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 62,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{1ce5317c-436b-4a83-b64c-c97b3eca7a8b}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{1ce5317c-436b-4a83-b64c-c97b3eca7a8b}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.105195472571335,
+            1.3208459931649814
+          ],
+          [
+            24.104868352963333,
+            1.3211519340427458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 13,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{c22e04e1-712b-4413-9c7c-5af8c8bbb6a4}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{c22e04e1-712b-4413-9c7c-5af8c8bbb6a4}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13239893210552,
+            1.3832023165245197
+          ],
+          [
+            24.130752661330543,
+            1.3831057727616014
+          ],
+          [
+            24.12843473414651,
+            1.382915024312697
+          ],
+          [
+            24.126147849793227,
+            1.3828490000103777
+          ],
+          [
+            24.1239045401363,
+            1.382811970543957
+          ],
+          [
+            24.121694198687308,
+            1.3827345833395543
+          ],
+          [
+            24.11950710553338,
+            1.3826984725978413
+          ],
+          [
+            24.116700249536493,
+            1.3826521290459362
+          ],
+          [
+            24.114243235699114,
+            1.3826115613520589
+          ],
+          [
+            24.11211737123061,
+            1.3825436995882
+          ],
+          [
+            24.10967703741773,
+            1.3825361680032013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 14,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{ed4f8fb9-d1f0-4829-b84b-49853decc14a}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{ed4f8fb9-d1f0-4829-b84b-49853decc14a}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.178721892955572,
+            1.3606889478400164
+          ],
+          [
+            24.17588211103576,
+            1.3606093405833195
+          ],
+          [
+            24.171340804526576,
+            1.3650840435624982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 15,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{be3761a1-fb1e-4567-918e-3611812cb7fe}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{be3761a1-fb1e-4567-918e-3611812cb7fe}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.171340804526576,
+            1.3650840435624982
+          ],
+          [
+            24.16931129912462,
+            1.3669441155647992
+          ],
+          [
+            24.16770910341855,
+            1.3684919032347869
+          ],
+          [
+            24.166009849533875,
+            1.3701334512310765
+          ],
+          [
+            24.164553310161214,
+            1.3715405329431813
+          ],
+          [
+            24.16292091873397,
+            1.3731174929635723
+          ],
+          [
+            24.16094217647901,
+            1.3750290413965895
+          ],
+          [
+            24.158270373146095,
+            1.377554224319128
+          ],
+          [
+            24.15078941599524,
+            1.3846246368580024
+          ],
+          [
+            24.147461558010153,
+            1.38434241753791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 16,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{6cda97b8-1a8f-4fbd-b8d0-d211f646c472}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{6cda97b8-1a8f-4fbd-b8d0-d211f646c472}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.14654171400009,
+            1.3842719518274966
+          ],
+          [
+            24.145338315211887,
+            1.3842046255648763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 17,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{95d0df8f-cdb3-4855-90e8-928214759cec}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{95d0df8f-cdb3-4855-90e8-928214759cec}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.145338315211887,
+            1.3842046255648763
+          ],
+          [
+            24.143526198423704,
+            1.3840291686373276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 18,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{d89c05fe-e2e6-477c-b30e-5d8b2d189ffe}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{d89c05fe-e2e6-477c-b30e-5d8b2d189ffe}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22569242890505,
+            1.301758661466662
+          ],
+          [
+            24.22481947896414,
+            1.3034537969700315
+          ],
+          [
+            24.224775092395703,
+            1.305925384024092
+          ],
+          [
+            24.22468615857582,
+            1.3083421308415477
+          ],
+          [
+            24.224706060717583,
+            1.3106087408407696
+          ],
+          [
+            24.22463924054516,
+            1.3131383868652022
+          ],
+          [
+            24.224714788342357,
+            1.3148277936157673
+          ],
+          [
+            24.224652416552324,
+            1.3170236891142606
+          ],
+          [
+            24.224588450617656,
+            1.319275681413424
+          ],
+          [
+            24.224525877269105,
+            1.3214786566620638
+          ],
+          [
+            24.224454942765817,
+            1.3239610451380326
+          ],
+          [
+            24.22438945175201,
+            1.3262529727250254
+          ],
+          [
+            24.224316794839563,
+            1.3287956667993068
+          ],
+          [
+            24.224246607371345,
+            1.3312519327202716
+          ],
+          [
+            24.224175138667512,
+            1.3337530301099538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 19,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{90203c41-603a-488c-9352-21f4163c6861}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{90203c41-603a-488c-9352-21f4163c6861}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.224175138667512,
+            1.3337530301099538
+          ],
+          [
+            24.224051983594087,
+            1.336145639869809
+          ],
+          [
+            24.22406585589432,
+            1.3386200055886106
+          ],
+          [
+            24.223915899176014,
+            1.3410873739683253
+          ],
+          [
+            24.223890436556264,
+            1.3435675825129418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 20,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{d2abe1f7-fd66-44ae-bedb-dbabd2b0d9d6}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{d2abe1f7-fd66-44ae-bedb-dbabd2b0d9d6}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10967703741773,
+            1.3825361680032013
+          ],
+          [
+            24.10718715403744,
+            1.382524738875761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 21,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{42e702a8-7e1b-433d-a115-507b36be1a28}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{42e702a8-7e1b-433d-a115-507b36be1a28}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.226357047679983,
+            1.2759620292227425
+          ],
+          [
+            24.22633534983505,
+            1.2773105817896158
+          ],
+          [
+            24.2263032090037,
+            1.278597849751691
+          ],
+          [
+            24.226232970793475,
+            1.2811175537985615
+          ],
+          [
+            24.226182465584998,
+            1.2829754383981966
+          ],
+          [
+            24.22614996533112,
+            1.284398267589844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 69,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{5a733f31-697e-43f5-a5eb-b7d7a8862234}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{5a733f31-697e-43f5-a5eb-b7d7a8862234}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.102346550043215,
+            1.334435542076207
+          ],
+          [
+            24.101656667388045,
+            1.3312027389426084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 22,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{92eb8818-3fbe-4ca5-a32c-1bb331771362}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{92eb8818-3fbe-4ca5-a32c-1bb331771362}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22614996533112,
+            1.284398267589844
+          ],
+          [
+            24.226085358073888,
+            1.2863224543027412
+          ],
+          [
+            24.226003950984666,
+            1.2891110124909084
+          ],
+          [
+            24.22589791992827,
+            1.2909397459801892
+          ],
+          [
+            24.225888006913895,
+            1.2943141549746446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 23,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{b2666398-0621-4046-96b1-109b1b92c981}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{b2666398-0621-4046-96b1-109b1b92c981}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10718715403744,
+            1.382524738875761
+          ],
+          [
+            24.104747884397145,
+            1.3824770397760306
+          ],
+          [
+            24.102262133671232,
+            1.3837010411234716
+          ],
+          [
+            24.10132702054631,
+            1.384234083975462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 24,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{2cff8f36-6e00-44bc-92b4-916b0a65f663}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{2cff8f36-6e00-44bc-92b4-916b0a65f663}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.095216752934505,
+            1.3869729198336285
+          ],
+          [
+            24.092651138522,
+            1.3883026877023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 25,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{a47a0de1-4621-4fbf-9c33-efda8e4c03d9}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{a47a0de1-4621-4fbf-9c33-efda8e4c03d9}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10179655745645,
+            1.355376341699053
+          ],
+          [
+            24.101985577061203,
+            1.352588465197237
+          ],
+          [
+            24.10218120158356,
+            1.3497031751940494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 89,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{0351b3af-df3f-49a9-8093-c896436eb5c5}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{0351b3af-df3f-49a9-8093-c896436eb5c5}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22569242890505,
+            1.301758661466662
+          ],
+          [
+            24.226467030974728,
+            1.3022555679872778
+          ],
+          [
+            24.228662996931956,
+            1.302410130481819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 26,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{c35790df-098d-4b00-9e1f-00d98c16375d}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{c35790df-098d-4b00-9e1f-00d98c16375d}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.223829066920818,
+            1.3489426014131785
+          ],
+          [
+            24.223665016610774,
+            1.3501338397495342
+          ],
+          [
+            24.223587691433917,
+            1.3506953300915192
+          ],
+          [
+            24.223586669546325,
+            1.3511447736566053
+          ],
+          [
+            24.223594059555477,
+            1.3534027628565712
+          ],
+          [
+            24.223569136774273,
+            1.3536074680368961
+          ],
+          [
+            24.223434278621315,
+            1.35471513422728
+          ],
+          [
+            24.22340751080444,
+            1.3549327762992176
+          ],
+          [
+            24.22344981272219,
+            1.3566345685491767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 27,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{eb2563e4-7a40-4935-a119-208b6497b239}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{eb2563e4-7a40-4935-a119-208b6497b239}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13493423944633,
+            1.3666978825459712
+          ],
+          [
+            24.13537952026882,
+            1.366068614009405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 28,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{950eddac-8119-425f-94b3-ea72ee4ea979}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{950eddac-8119-425f-94b3-ea72ee4ea979}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22350958539399,
+            1.3488332601497388
+          ],
+          [
+            24.223829066920818,
+            1.3489426014131785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 29,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{c217d3d1-5643-4f15-a4ba-15849d8928bb}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{c217d3d1-5643-4f15-a4ba-15849d8928bb}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13306087423972,
+            1.3673332988156366
+          ],
+          [
+            24.13493423944633,
+            1.3666978825459712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 30,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{e64074df-154a-4c20-8b00-d9dadc3c9da4}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{e64074df-154a-4c20-8b00-d9dadc3c9da4}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22344981272219,
+            1.3566345685491767
+          ],
+          [
+            24.223148269903454,
+            1.3566278217542649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 31,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{3466bb6d-343d-4518-8735-80c3ad8ce3de}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{3466bb6d-343d-4518-8735-80c3ad8ce3de}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.11213559465773,
+            1.3342181856368325
+          ],
+          [
+            24.113486418702013,
+            1.3342165087864217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 32,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{cb4b759b-598d-4e06-9afd-58435b4b01e5}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{cb4b759b-598d-4e06-9afd-58435b4b01e5}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.072009457412666,
+            1.38397986038827
+          ],
+          [
+            24.07173387053873,
+            1.3834560089683927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 33,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{de9455d7-6f3e-47ff-bb47-708e7d4ec97c}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{de9455d7-6f3e-47ff-bb47-708e7d4ec97c}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.09298594272469,
+            1.3871202835741858
+          ],
+          [
+            24.09308334059283,
+            1.387194528371289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 34,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{2008861f-abf4-44d3-a285-d6bb3f401c57}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{2008861f-abf4-44d3-a285-d6bb3f401c57}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.101656667388045,
+            1.3312027389426084
+          ],
+          [
+            24.102351350800646,
+            1.331075403836804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 35,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{7cab8055-c0a9-4877-9cde-65e503f86df0}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{7cab8055-c0a9-4877-9cde-65e503f86df0}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.099896568201974,
+            1.3847171815658987
+          ],
+          [
+            24.099760041200867,
+            1.384182257688922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 36,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{004d8af3-7a96-4f8a-ad90-0e178b28a40f}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{004d8af3-7a96-4f8a-ad90-0e178b28a40f}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10132702054631,
+            1.384234083975462
+          ],
+          [
+            24.099896568201974,
+            1.3847171815658987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 37,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{25c9c6d7-f290-42f5-938a-a2df07ab49f4}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{25c9c6d7-f290-42f5-938a-a2df07ab49f4}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.099896568201974,
+            1.3847171815658987
+          ],
+          [
+            24.098636623087753,
+            1.3854986901066153
+          ],
+          [
+            24.096764570125746,
+            1.386250551186624
+          ],
+          [
+            24.095216752934505,
+            1.3869729198336285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 39,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{16d29840-1160-4af0-9779-052c2c907071}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{16d29840-1160-4af0-9779-052c2c907071}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.147028573666763,
+            1.382761512452438
+          ],
+          [
+            24.146446249966125,
+            1.3827777733471933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 40,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{5d4caa04-6244-43b2-8914-7598ed738d73}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{5d4caa04-6244-43b2-8914-7598ed738d73}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10218120158356,
+            1.3497031751940494
+          ],
+          [
+            24.101261296964985,
+            1.349608118103964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 41,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{f0c03b37-ef12-4f61-b68b-4cfd28b9499a}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{f0c03b37-ef12-4f61-b68b-4cfd28b9499a}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22762511574342,
+            1.2945354830266431
+          ],
+          [
+            24.227522787443846,
+            1.2950209797505303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 42,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{676a200f-9f64-43d5-b5a9-4b9de2767bf1}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{676a200f-9f64-43d5-b5a9-4b9de2767bf1}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13948939006575,
+            1.38376407108779
+          ],
+          [
+            24.139456251308307,
+            1.3842345588383826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 43,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{d0fcc063-ffaa-47cc-9866-84f4385b76b3}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{d0fcc063-ffaa-47cc-9866-84f4385b76b3}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13948939006575,
+            1.38376407108779
+          ],
+          [
+            24.135958549967665,
+            1.3834688908623753
+          ],
+          [
+            24.13239893210552,
+            1.3832023165245197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 44,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{8cd376ea-e710-4891-922b-608bd9fc929e}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{8cd376ea-e710-4891-922b-608bd9fc929e}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.139204211543465,
+            1.3921524494528208
+          ],
+          [
+            24.138829122417704,
+            1.3925322370356739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 45,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{e9461f2c-4122-4e8b-b05e-c7722d23dafa}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{e9461f2c-4122-4e8b-b05e-c7722d23dafa}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10718715403744,
+            1.382524738875761
+          ],
+          [
+            24.107018634202504,
+            1.38173112808795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 46,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{3f0ce0de-f76b-4b97-84fa-d758c3197d18}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{3f0ce0de-f76b-4b97-84fa-d758c3197d18}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.14230561500997,
+            1.3846636432473438
+          ],
+          [
+            24.143526198423704,
+            1.3840291686373276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 47,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{a52c39e8-852c-4198-bc78-ed8b7064ce07}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{a52c39e8-852c-4198-bc78-ed8b7064ce07}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.11213559465773,
+            1.3342181856368325
+          ],
+          [
+            24.112746667932413,
+            1.3350753265928375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 48,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{43e9071f-0194-4375-8e2f-166a5fea08b9}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{43e9071f-0194-4375-8e2f-166a5fea08b9}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.132706463890294,
+            1.3762801941709943
+          ],
+          [
+            24.133244749169023,
+            1.3763268238929889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 49,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{dd87318f-e6e3-463e-8439-5017491742b8}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{dd87318f-e6e3-463e-8439-5017491742b8}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10179655745645,
+            1.355376341699053
+          ],
+          [
+            24.100932322454813,
+            1.3553643290723563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 50,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{8ff0a676-9fa1-416f-abbb-d5080c027b8f}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{8ff0a676-9fa1-416f-abbb-d5080c027b8f}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.072009457412666,
+            1.38397986038827
+          ],
+          [
+            24.07158743616124,
+            1.38239990196962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 94,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{8cec126f-5286-406f-89f5-b2b212a8ce1e}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{8cec126f-5286-406f-89f5-b2b212a8ce1e}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.14654171400009,
+            1.3842719518274966
+          ],
+          [
+            24.146446249966125,
+            1.3827777733471933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 51,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{38122d64-1f20-415c-be7f-919955853522}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{38122d64-1f20-415c-be7f-919955853522}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.101656667388045,
+            1.3312027389426084
+          ],
+          [
+            24.10148944429321,
+            1.3305275351865584
+          ],
+          [
+            24.100783201570092,
+            1.3276758408387743
+          ],
+          [
+            24.099699716005016,
+            1.3246324714183182
+          ],
+          [
+            24.09920250778843,
+            1.323819632511394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 52,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{324dd137-287d-4c8c-a4d4-5b73b015e7b6}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{324dd137-287d-4c8c-a4d4-5b73b015e7b6}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.0779993452568,
+            1.3968471423330435
+          ],
+          [
+            24.07621205822282,
+            1.3981531390793347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 53,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{239da942-86f2-4416-a70c-45338d539b1c}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{239da942-86f2-4416-a70c-45338d539b1c}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.07621205822282,
+            1.3981531390793347
+          ],
+          [
+            24.0759242284308,
+            1.3979158710500268
+          ],
+          [
+            24.074083680615594,
+            1.3965648272477853
+          ],
+          [
+            24.074404145973507,
+            1.3935775008410414
+          ],
+          [
+            24.073003329778793,
+            1.390562731532613
+          ],
+          [
+            24.07261931992674,
+            1.3881799013213898
+          ],
+          [
+            24.072180776514852,
+            1.385159712816687
+          ],
+          [
+            24.072009457412666,
+            1.38397986038827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 54,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{c83de4b7-505a-4fdb-b95d-d80bb51b6bca}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{c83de4b7-505a-4fdb-b95d-d80bb51b6bca}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13884309620194,
+            1.3556539425649918
+          ],
+          [
+            24.13827867033389,
+            1.355749947746266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 55,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{6bf1f445-87bd-4fb9-993a-7eae1f1330eb}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{6bf1f445-87bd-4fb9-993a-7eae1f1330eb}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.139204211543465,
+            1.3921524494528208
+          ],
+          [
+            24.139897149994905,
+            1.3927287675885538
+          ],
+          [
+            24.13977908744544,
+            1.3941082531145967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 56,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{5f74de96-b638-49b2-a4f0-f9b7b217b4be}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{5f74de96-b638-49b2-a4f0-f9b7b217b4be}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.132890138670582,
+            1.3687097638820371
+          ],
+          [
+            24.13306087423972,
+            1.3673332988156366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 57,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{b7bd1a16-06dc-40ac-93f2-f1875ed4f5e8}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{b7bd1a16-06dc-40ac-93f2-f1875ed4f5e8}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13977908744544,
+            1.3941082531145967
+          ],
+          [
+            24.139581653124925,
+            1.3942494220815618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 58,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{a9cb3f02-2bc8-4c3c-9645-a326d2661000}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{a9cb3f02-2bc8-4c3c-9645-a326d2661000}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.132995791980946,
+            1.3728503904653255
+          ],
+          [
+            24.13260483752178,
+            1.3715003863799846
+          ],
+          [
+            24.132890138670582,
+            1.3687097638820371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 59,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{cf062aa2-704a-440f-b122-0e9d06df4906}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{cf062aa2-704a-440f-b122-0e9d06df4906}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13239893210552,
+            1.3832023165245197
+          ],
+          [
+            24.132369401668406,
+            1.3828013544625752
+          ],
+          [
+            24.132271540074726,
+            1.3804610752214608
+          ],
+          [
+            24.132484896108647,
+            1.377649927079116
+          ],
+          [
+            24.132706463890294,
+            1.3762801941709943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 60,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{bf65259d-a6f7-4727-b7e7-67ad06ae1944}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{bf65259d-a6f7-4727-b7e7-67ad06ae1944}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.132706463890294,
+            1.3762801941709943
+          ],
+          [
+            24.1328204346609,
+            1.3750120181288945
+          ],
+          [
+            24.132844693567552,
+            1.3747420877899896
+          ],
+          [
+            24.132886239993237,
+            1.3741793123218708
+          ],
+          [
+            24.132995791980946,
+            1.3728503904653255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 61,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{f710ee84-8fde-4aab-b1df-04cc5fbaa79e}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{f710ee84-8fde-4aab-b1df-04cc5fbaa79e}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.09920250778843,
+            1.323819632511394
+          ],
+          [
+            24.100476401315888,
+            1.3232052628622804
+          ],
+          [
+            24.101766637997294,
+            1.3225602178270706
+          ],
+          [
+            24.103326963092655,
+            1.32178014321755
+          ],
+          [
+            24.105195472571335,
+            1.3208459931649814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 63,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{fadc0a9a-4943-42bd-9d4e-b9520865cfda}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{fadc0a9a-4943-42bd-9d4e-b9520865cfda}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10276655852846,
+            1.3375042860335509
+          ],
+          [
+            24.102520789629665,
+            1.3356026732575703
+          ],
+          [
+            24.102346550043215,
+            1.334435542076207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 64,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{1c68aa72-e312-4a01-ad87-2d41b62b58eb}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{1c68aa72-e312-4a01-ad87-2d41b62b58eb}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.136290288507574,
+            1.390842619484191
+          ],
+          [
+            24.138089688785634,
+            1.3915346998665665
+          ],
+          [
+            24.139204211543465,
+            1.3921524494528208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 65,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{0e49b557-91b9-4120-800d-eb99466707f9}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{0e49b557-91b9-4120-800d-eb99466707f9}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.23348115886519,
+            1.337133719472071
+          ],
+          [
+            24.233883151119834,
+            1.3371345649418613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 66,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{d8c6c919-93d1-4df5-8df1-2bcc4bf92df5}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{d8c6c919-93d1-4df5-8df1-2bcc4bf92df5}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10218120158356,
+            1.3497031751940494
+          ],
+          [
+            24.102333798295586,
+            1.3465230647840156
+          ],
+          [
+            24.102487151909187,
+            1.343327166753231
+          ],
+          [
+            24.102641005895325,
+            1.3401208314577517
+          ],
+          [
+            24.10276655852846,
+            1.3375042860335509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 101,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{f1f77a4a-59c9-4342-be1d-c09965c4e352}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{f1f77a4a-59c9-4342-be1d-c09965c4e352}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.171340804526576,
+            1.3650840435624982
+          ],
+          [
+            24.168150226215662,
+            1.3635607170996873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 67,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{9cbe2fc1-68f6-464a-8d74-853d145fe366}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{9cbe2fc1-68f6-464a-8d74-853d145fe366}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.09298594272469,
+            1.3871202835741858
+          ],
+          [
+            24.094209939947728,
+            1.3841991174366928
+          ],
+          [
+            24.095510594244555,
+            1.381068387744286
+          ],
+          [
+            24.09726154859382,
+            1.378805847813959
+          ],
+          [
+            24.099091281314568,
+            1.376513802136317
+          ],
+          [
+            24.101096448877872,
+            1.3737881250414412
+          ],
+          [
+            24.101406880004394,
+            1.3708663324022308
+          ],
+          [
+            24.101452243356412,
+            1.3675605540287963
+          ],
+          [
+            24.101491359803887,
+            1.364556100197718
+          ],
+          [
+            24.10153228182101,
+            1.361413057411741
+          ],
+          [
+            24.10153473998923,
+            1.36122420670291
+          ],
+          [
+            24.101674467965122,
+            1.3582100742852772
+          ],
+          [
+            24.10173944028288,
+            1.3568085267868917
+          ],
+          [
+            24.10179655745645,
+            1.355376341699053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 68,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{9c41cf8d-bca0-4b49-bf3d-599bc3c9d073}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{9c41cf8d-bca0-4b49-bf3d-599bc3c9d073}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22344981272219,
+            1.3566345685491767
+          ],
+          [
+            24.223482552591094,
+            1.357264966832353
+          ],
+          [
+            24.22354313854446,
+            1.358083490231775
+          ],
+          [
+            24.223305780132915,
+            1.3591819599725936
+          ],
+          [
+            24.223299521952363,
+            1.3592103125449768
+          ],
+          [
+            24.22335318303162,
+            1.3615664128226654
+          ],
+          [
+            24.223363286328517,
+            1.3617533823534493
+          ],
+          [
+            24.220590034224102,
+            1.3616950229822957
+          ],
+          [
+            24.219634329711866,
+            1.3616749122772858
+          ],
+          [
+            24.218386920691756,
+            1.361677354251218
+          ],
+          [
+            24.21703841950368,
+            1.361679993499436
+          ],
+          [
+            24.216181384228683,
+            1.3616816703309287
+          ],
+          [
+            24.21503037092212,
+            1.3616839234851636
+          ],
+          [
+            24.213073918502136,
+            1.361687752015548
+          ],
+          [
+            24.210775916011865,
+            1.3612581477511707
+          ],
+          [
+            24.20796626779523,
+            1.3611055053264614
+          ],
+          [
+            24.207930284666535,
+            1.3611010863812385
+          ],
+          [
+            24.20514744091378,
+            1.3607593705631595
+          ],
+          [
+            24.202585389717594,
+            1.3604447658349523
+          ],
+          [
+            24.199023706937776,
+            1.3605362884700367
+          ],
+          [
+            24.19697586816769,
+            1.3605893538703002
+          ],
+          [
+            24.19396429496315,
+            1.3608615544563898
+          ],
+          [
+            24.190755790629645,
+            1.3609444237770898
+          ],
+          [
+            24.188158050890298,
+            1.3610068512452962
+          ],
+          [
+            24.18622147242208,
+            1.3608677798715347
+          ],
+          [
+            24.184283398474225,
+            1.3607301175923867
+          ],
+          [
+            24.18213649016885,
+            1.3607114230275041
+          ],
+          [
+            24.180931858068032,
+            1.3607034940068299
+          ],
+          [
+            24.178721892955572,
+            1.3606889478400164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 70,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{fd4382f8-7052-4288-9ac9-a745ae0a3ad1}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{fd4382f8-7052-4288-9ac9-a745ae0a3ad1}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.092651138522,
+            1.3883026877023
+          ],
+          [
+            24.08980054573623,
+            1.3896306920569468
+          ],
+          [
+            24.089764998143085,
+            1.3896483323993092
+          ],
+          [
+            24.086293309127242,
+            1.391485636954683
+          ],
+          [
+            24.084663733881243,
+            1.3922779283866586
+          ],
+          [
+            24.082386101486787,
+            1.3933487023501698
+          ],
+          [
+            24.080730092475438,
+            1.3941904435101375
+          ],
+          [
+            24.079407172305135,
+            1.395477490987435
+          ],
+          [
+            24.0779993452568,
+            1.3968471423330435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 71,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{98b1a5bb-c150-4be9-9fdc-4b258727da19}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{98b1a5bb-c150-4be9-9fdc-4b258727da19}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13306087423972,
+            1.3673332988156366
+          ],
+          [
+            24.13326173082653,
+            1.365566021975791
+          ],
+          [
+            24.13331532424978,
+            1.3613301444249641
+          ],
+          [
+            24.133317583678476,
+            1.3612885589976331
+          ],
+          [
+            24.133461724799265,
+            1.3586361957874582
+          ],
+          [
+            24.135591848777146,
+            1.3586557513308721
+          ],
+          [
+            24.13797266785675,
+            1.358677607940702
+          ],
+          [
+            24.13884309620194,
+            1.3556539425649918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 72,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{c287518a-a5d8-45e6-a457-eab16350f3e2}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{c287518a-a5d8-45e6-a457-eab16350f3e2}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13239893210552,
+            1.3832023165245197
+          ],
+          [
+            24.13242829340263,
+            1.383581564454467
+          ],
+          [
+            24.132677750963243,
+            1.3859504155091837
+          ],
+          [
+            24.13357082997544,
+            1.3889230576251432
+          ],
+          [
+            24.13463669819845,
+            1.390415149598524
+          ],
+          [
+            24.136290288507574,
+            1.390842619484191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 73,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{3508c0d1-1721-4025-8247-c879ad8a75a4}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{3508c0d1-1721-4025-8247-c879ad8a75a4}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.223890436556264,
+            1.3435675825129418
+          ],
+          [
+            24.224698942741952,
+            1.3435677558337835
+          ],
+          [
+            24.224741367286214,
+            1.343567761470248
+          ],
+          [
+            24.225776948170548,
+            1.3435679066088433
+          ],
+          [
+            24.225783620744135,
+            1.3414321320121345
+          ],
+          [
+            24.22578608736935,
+            1.3393019426923907
+          ],
+          [
+            24.22809035508767,
+            1.3389202514373482
+          ],
+          [
+            24.228125603866804,
+            1.3389139400099797
+          ],
+          [
+            24.231273722395947,
+            1.3383502529651448
+          ],
+          [
+            24.23133509625989,
+            1.3383389039479765
+          ],
+          [
+            24.23348210463977,
+            1.3379418672714816
+          ],
+          [
+            24.233476090302737,
+            1.3372413731377004
+          ],
+          [
+            24.23348115886519,
+            1.337133719472071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 74,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{73d69c4d-ced6-4239-9a67-24c3946c8664}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{73d69c4d-ced6-4239-9a67-24c3946c8664}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.15203753822242,
+            1.3915258846342398
+          ],
+          [
+            24.15271196711822,
+            1.3917751248881545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 75,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{1ada5a2e-2e30-4a7d-9edf-89b07d8d2b34}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{1ada5a2e-2e30-4a7d-9edf-89b07d8d2b34}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.225888006913895,
+            1.2943141549746446
+          ],
+          [
+            24.226285212506113,
+            1.294299540778489
+          ],
+          [
+            24.22762511574342,
+            1.2945354830266431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 76,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{fe4973bd-0cee-4d70-81ff-430fff4abcf8}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{fe4973bd-0cee-4d70-81ff-430fff4abcf8}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.146983389321257,
+            1.3894852617384188
+          ],
+          [
+            24.148093290328173,
+            1.3897867694165158
+          ],
+          [
+            24.14984891717035,
+            1.3905171941313237
+          ],
+          [
+            24.15096916813668,
+            1.3912439761363724
+          ],
+          [
+            24.15203753822242,
+            1.3915258846342398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 77,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{73247e33-e667-4c67-ad39-5f7354690a96}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{73247e33-e667-4c67-ad39-5f7354690a96}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.145338315211887,
+            1.3842046255648763
+          ],
+          [
+            24.145870074505034,
+            1.3861173952230195
+          ],
+          [
+            24.146391503571767,
+            1.3876930055396128
+          ],
+          [
+            24.146983389321257,
+            1.3894852617384188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 78,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{209eea72-5e0f-47af-9b8d-acd471c7bedf}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{209eea72-5e0f-47af-9b8d-acd471c7bedf}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.08646108756512,
+            1.397938210614172
+          ],
+          [
+            24.08674201362553,
+            1.397848941128399
+          ],
+          [
+            24.086749066764153,
+            1.397385243634985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 79,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{6349a0e6-25b8-403a-98d7-7f1a14ec1894}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{6349a0e6-25b8-403a-98d7-7f1a14ec1894}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.0779993452568,
+            1.3968471423330435
+          ],
+          [
+            24.081442662444623,
+            1.3981126294241428
+          ],
+          [
+            24.08340283312594,
+            1.3996709592226033
+          ],
+          [
+            24.084868184693377,
+            1.3987387415828358
+          ],
+          [
+            24.08646108756512,
+            1.397938210614172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 80,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{73447d87-a525-4b67-8a21-16493ed00c38}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{73447d87-a525-4b67-8a21-16493ed00c38}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22762511574342,
+            1.2945354830266431
+          ],
+          [
+            24.22850292282176,
+            1.2947005018141704
+          ],
+          [
+            24.23045418546228,
+            1.2950440910573129
+          ],
+          [
+            24.230454680196825,
+            1.2971486380944226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 81,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{427e4a81-78dc-47fd-b6e3-1f59b237e5b8}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{427e4a81-78dc-47fd-b6e3-1f59b237e5b8}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.08323707873024,
+            1.334740494889686
+          ],
+          [
+            24.08321512153729,
+            1.3342647034392552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 82,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{3d15fe5f-7b71-41b0-853a-30a81354099c}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{3d15fe5f-7b71-41b0-853a-30a81354099c}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.132890138670582,
+            1.3687097638820371
+          ],
+          [
+            24.130843210437575,
+            1.3664737131786022
+          ],
+          [
+            24.129137276931804,
+            1.3650100249422588
+          ],
+          [
+            24.128789553250968,
+            1.3646745970845509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 83,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{682974b0-076f-498a-b56f-f4b0fce1c2d2}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{682974b0-076f-498a-b56f-f4b0fce1c2d2}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.091303623984018,
+            1.3374250584796012
+          ],
+          [
+            24.08797445234481,
+            1.3373833796419237
+          ],
+          [
+            24.08558395845634,
+            1.3373534514234384
+          ],
+          [
+            24.08326745627693,
+            1.3355237626936542
+          ],
+          [
+            24.08326616799382,
+            1.3354905512093085
+          ],
+          [
+            24.08323707873024,
+            1.334740494889686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 84,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{c26697df-b0bd-4809-bd0a-074c1d692cab}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{c26697df-b0bd-4809-bd0a-074c1d692cab}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.086321000166695,
+            1.3432763146918358
+          ],
+          [
+            24.08603132674851,
+            1.3437243646041943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 85,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{042dbbde-4d88-4bc6-98db-100ec6df57c6}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{042dbbde-4d88-4bc6-98db-100ec6df57c6}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.091303623984018,
+            1.3374250584796012
+          ],
+          [
+            24.09021797624575,
+            1.3395032544989272
+          ],
+          [
+            24.089201539192118,
+            1.3421377090289768
+          ],
+          [
+            24.08769424653897,
+            1.342643524334895
+          ],
+          [
+            24.086321000166695,
+            1.3432763146918358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 86,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{10ee05b9-cb87-46a6-8c49-7d39cb4ba7c4}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{10ee05b9-cb87-46a6-8c49-7d39cb4ba7c4}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.128789553250968,
+            1.3646745970845509
+          ],
+          [
+            24.128525114113526,
+            1.364389089384215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 87,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{74010a4f-6c22-4ea2-81e8-f6866a7d9af0}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{74010a4f-6c22-4ea2-81e8-f6866a7d9af0}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.23071193793114,
+            1.302524749600342
+          ],
+          [
+            24.230976113492062,
+            1.302355403866917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 88,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{0549b741-db49-491d-83f0-79d5fc93ddd2}",
+        "cableSize": 12,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{0549b741-db49-491d-83f0-79d5fc93ddd2}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.102346550043215,
+            1.334435542076207
+          ],
+          [
+            24.103511421555005,
+            1.3347164398415685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 90,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{5b30ede1-31db-4522-b611-7fe55977ded6}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{5b30ede1-31db-4522-b611-7fe55977ded6}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.113923594898775,
+            1.3875920317907993
+          ],
+          [
+            24.113961091830603,
+            1.388023136221462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 91,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{6d889b90-6a90-4e05-97ae-c3163d19a92b}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{6d889b90-6a90-4e05-97ae-c3163d19a92b}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10967703741773,
+            1.3825361680032013
+          ],
+          [
+            24.10986835450769,
+            1.3828768365756632
+          ],
+          [
+            24.111357804298763,
+            1.384646474912489
+          ],
+          [
+            24.11256846765061,
+            1.3860865770662254
+          ],
+          [
+            24.112589911785513,
+            1.3861120843715642
+          ],
+          [
+            24.113923594898775,
+            1.3875920317907993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 92,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{43ff7e13-c45d-4504-8fe3-197388d9ee0a}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{43ff7e13-c45d-4504-8fe3-197388d9ee0a}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.095216752934505,
+            1.3869729198336285
+          ],
+          [
+            24.096067995163985,
+            1.3876030240769037
+          ],
+          [
+            24.096460509939785,
+            1.3879188624059278
+          ],
+          [
+            24.095259607376303,
+            1.3881761461060096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 93,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{fc32df78-8edc-48d3-8f0b-6ec6facb442e}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{fc32df78-8edc-48d3-8f0b-6ec6facb442e}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.146446249966125,
+            1.3827777733471933
+          ],
+          [
+            24.146000871888138,
+            1.3823610110884192
+          ],
+          [
+            24.145251967824723,
+            1.3822735390124783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 95,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{cb8e35d2-d80e-4628-972c-03279a1b7464}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{cb8e35d2-d80e-4628-972c-03279a1b7464}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22602330905939,
+            1.3338951072716625
+          ],
+          [
+            24.225379167502265,
+            1.3339825585527807
+          ],
+          [
+            24.22480477223984,
+            1.3338730602086915
+          ],
+          [
+            24.224175138667512,
+            1.3337530301099538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 96,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{a9c28106-14a3-41a3-ad58-32ee7259a2f4}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{a9c28106-14a3-41a3-ad58-32ee7259a2f4}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.10132702054631,
+            1.384234083975462
+          ],
+          [
+            24.10140200595296,
+            1.3844318819889752
+          ],
+          [
+            24.101629137031598,
+            1.384737992394019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 97,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{2e153623-c1e3-4db2-aa8c-ecde17fa7294}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{2e153623-c1e3-4db2-aa8c-ecde17fa7294}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.146983389321257,
+            1.3894852617384188
+          ],
+          [
+            24.14455389597383,
+            1.3897275497798474
+          ],
+          [
+            24.1434732279995,
+            1.3895355167783399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 98,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{8441809d-2c83-48b9-9605-b25beacf79ce}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{8441809d-2c83-48b9-9605-b25beacf79ce}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.13585668962213,
+            1.3929827098271992
+          ],
+          [
+            24.13610429369008,
+            1.3929347389852533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 99,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{4282ce9e-5438-476a-b727-8e1e7a3a9ef4}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{4282ce9e-5438-476a-b727-8e1e7a3a9ef4}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.136290288507574,
+            1.390842619484191
+          ],
+          [
+            24.13585668962213,
+            1.3929827098271992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 100,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{bc9aa031-d10e-4004-bcdd-064b968b53e1}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{bc9aa031-d10e-4004-bcdd-064b968b53e1}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.168150226215662,
+            1.3635607170996873
+          ],
+          [
+            24.16809008848333,
+            1.3629495955585829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 102,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{c15797fe-acdb-43c6-8e8b-a00db1029100}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{c15797fe-acdb-43c6-8e8b-a00db1029100}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.22614996533112,
+            1.284398267589844
+          ],
+          [
+            24.226693558787318,
+            1.2841821116318524
+          ],
+          [
+            24.227279958762313,
+            1.2841821116318524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 103,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{f44b9fb2-2a95-433d-8aa8-ed6ba15ddff5}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{f44b9fb2-2a95-433d-8aa8-ed6ba15ddff5}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.171340804526576,
+            1.3650840435624982
+          ],
+          [
+            24.1721621061544,
+            1.3650527389944949
+          ],
+          [
+            24.172958098797984,
+            1.3651042416032368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 104,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{ec5d1b15-29d3-4f1b-8373-e99efddd3217}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{ec5d1b15-29d3-4f1b-8373-e99efddd3217}",
+        "class": "A",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.228662996931956,
+            1.302410130481819
+          ],
+          [
+            24.229273406332084,
+            1.3019189154930446
+          ],
+          [
+            24.229816582576245,
+            1.3014947203504201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 8,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{b5516d0c-96c6-4203-8ded-5c05b42ec799}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{b5516d0c-96c6-4203-8ded-5c05b42ec799}",
+        "class": "U",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.103511421555005,
+            1.3347164398415685
+          ],
+          [
+            24.11213559465773,
+            1.3342181856368325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 9,
+        "Enabled": 1,
+        "Subtype": 1,
+        "GlobalID": "{501166b3-69fb-4fe5-bedf-323a730efdc7}",
+        "cableSize": 4,
+        "cableType": "Loose Tube",
+        "modeGauge": "sm",
+        "status": null,
+        "workOrder": "13-1",
+        "splitGuid": "{501166b3-69fb-4fe5-bedf-323a730efdc7}",
+        "class": "U",
+        "cn_substat": "13",
+        "cn_feeder": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.11213559465773,
+            1.3342181856368325
+          ],
+          [
+            24.111443565333868,
+            1.3329840995248983
+          ]
+        ]
+      }
+    }
+  ]
+}
